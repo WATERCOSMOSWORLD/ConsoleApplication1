@@ -124,6 +124,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="GuessTheNumber.cpp" />
+    <ClCompile Include="Student Management System.cpp" />
+    <ClCompile Include="TextAnalyzer.cpp" />
+    <ClCompile Include="Tic Tac Toe.cpp" />
+    <ClCompile Include="ToDoList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
